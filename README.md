@@ -2,7 +2,7 @@
 
 My main goal with this small project was to learn more about positioning using Flexbox.
 
-![alt text](https://github.com/ragazziana/projectscotland/blob/master/images/printsecreen.png?raw=true "Javascript")
+![alt text](https://github.com/ragazziana/projectscotland/blob/master/images/printscreen.png?raw=true "Javascript")
 
 ## Technologies used in this project
 
