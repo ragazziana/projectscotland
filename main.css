@@ -39,6 +39,7 @@
     font-size: 2rem;
     font-weight: bold;
     color: black;
+    margin-left: 20px;
 }
 
 .headline{
@@ -128,6 +129,8 @@
     height: 36px;
     border: 2px solid #f1f1f2;
     margin: -1px;
+    padding: 0 9px 0 9px;
+    text-transform: uppercase;
 }
 
 
